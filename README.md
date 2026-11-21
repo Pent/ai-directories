@@ -69,6 +69,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 - [There's An AI](https://theresanai.com) - No 1 AI Aggregator 
 - [Toolify.ai](https://www.toolify.ai/) - Best AI Companies and Tools, Auto Updated Daily By ChatGPT
+- [Toolradar](https://toolradar.com/ai-tools) - AI tools directory with prices read from vendor pages and alternatives for each tool
 - [Top AI Tools Hub](https://www.topaitoolshub.com/) - 
 - [TopAI.tools](https://topai.tools/) - Discover the best AI tools Everyday
 - [Tool Pilot](https://www.toolpilot.ai) - Navigate the World of AI Tools
